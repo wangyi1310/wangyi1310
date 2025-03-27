@@ -9,8 +9,8 @@
 ## Social
 | Platform                               | -                                                                                                                         |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Weibo](https://zuoluo.tv/youtube)   | ![Weibo Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
-| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili) 
+| [Weibo]  | ![Weibo Subscribers](https://badge.is26.com/youtube-subscribers)|
+| [Bilibili] | ![哔哩哔哩](https://badge.is26.com/bilibili) 
 
 ## About Me
 
