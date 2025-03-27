@@ -16,6 +16,6 @@
 
 
 ## Work Experience
-- Apr 2025 - Present   Middle Backend Developer at PPIO, Xian  
-- Oct 2021 - Mar 2025: Middle Backend Developer at TencentCloud, Xian  
-- Jul 2019 - Aug 2021: Senior Backend Developer at Xiaomi Cloud Platform, Wuhan
+- Apr 2025 - Present   Intermediate Development Engineer at PPIO, Xi'an  
+- Oct 2021 - Mar 2025: Intermediate Development Engineer at TencentCloud, Xi'an  
+- Jul 2019 - Aug 2021: SJunior Development Engineer at Xiaomi Cloud Platform, Wu'han
