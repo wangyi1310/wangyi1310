@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 [![wangyi1310 stats](https://github-readme-stats.vercel.app/api?username=wangyi1310&theme=dark&show_icons=true)](https://github.com/wangyi1310)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyi1310&hide_progress=true)
-
+## Social
+| Platform                               | -                                                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Weibo](https://zuoluo.tv/youtube)   | ![Weibo Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
+| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili) 
 
 ## About Me
 
