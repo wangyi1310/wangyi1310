@@ -10,6 +10,6 @@
 
 
 ## Work Experience
-- Apr 2025 - Present   Intermediate Development Engineer at PPIO, Xian,China
-- Oct 2021 - Mar 2025: Intermediate Development Engineer at Tencent Cloud Platform, Xian,China 
-- Jul 2019 - Aug 2021: Junior Development Engineer at Xiaomi Cloud Platform, Wuhan,China
+- Apr 2025 - Present   Intermediate Development Engineer, Xian,China
+- Oct 2021 - Mar 2025: Intermediate Development Engineer, Xian,China 
+- Jul 2019 - Aug 2021: Junior Development Engineer, Wuhan,China
