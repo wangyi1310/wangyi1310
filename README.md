@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
+- 🫢 I may have some time to chat with you 
 
 
 [![wangyi1310 stats](https://github-readme-stats.vercel.app/api?username=wangyi1310&theme=dark&show_icons=true)](https://github.com/wangyi1310)
